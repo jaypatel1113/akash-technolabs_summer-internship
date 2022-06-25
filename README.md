@@ -24,5 +24,6 @@ Day-3:
 
 
 Create AdminPanel Application using NodeJS & ExpressJS using EJS as view engine
+(Home page, Login page, Sign-UP page, Product page & Price page)
 
 </pre>
