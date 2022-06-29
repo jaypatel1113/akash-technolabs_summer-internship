@@ -21,6 +21,10 @@ Day-2:
 
 Day-3:
   overvall revision of HTML
+  
+  
+create express first app for different routes like 
+  /, /about, /service, /search/:id, /searchname/:name, /sum/:n1/:n2, etc etc
 
 
 Create AdminPanel Application using NodeJS & ExpressJS using EJS as view engine
