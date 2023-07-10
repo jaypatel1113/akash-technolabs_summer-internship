@@ -24,7 +24,7 @@ Day-3:
   
   
 create express first app for different routes like 
-  /, /about, /service, /search/:id, /searchname/:name, /sum/:n1/:n2, etc etc
+  /, /about, /service, /search/:id, /searchname/:name, /sum/:n1/:n2, etc
 
 
 Create AdminPanel Application using NodeJS & ExpressJS using EJS as view engine
