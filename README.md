@@ -1,6 +1,6 @@
 <pre>
 
-# summerInternship-AkashTechnolabs
+# akash-technolabs_summer-internship
 All the task given by Instructor will be uploaded in this repo (Day wise)
 
 Day-1 Tasks: 
